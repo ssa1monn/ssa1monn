@@ -15,7 +15,7 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ssa1monn&show_icons=true&count_private=true&theme=github_dark&hide_border=true">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ssa1monn&layout=default&theme=github_dark&hide=html&hide_border=true&card_width=330">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ssa1monn&theme=react-dark&hide_border=true&hide_title=true" width="75%">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ssa1monn&theme=react-dark&hide_border=true&hide_title=true" width="100%">
   </p>
 
 <!--trap-->
