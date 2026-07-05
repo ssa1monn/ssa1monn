@@ -1,94 +1,131 @@
-<!--
-  ssa1mon · GitHub Profile
-  All banners & section headers are self-hosted SVGs in ./assets — they never break.
--->
-
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="SSA1MON — Game Engineer · AR/CV Researcher" />
+
+<br/>
+
+# Hi, I'm ssa1mon 👋
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=3200&pause=900&color=56C8FF&center=true&vCenter=true&width=560&lines=Game+Engineer+%26+Undergraduate+Researcher;Building+worlds+in+Unreal+Engine+5;AR+%2F+Computer+Vision+%40+ECL%2C+INU;Rhythm+game+enjoyer+%E2%99%AA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=3200&pause=900&color=0969DA&center=true&vCenter=true&width=560&lines=Game+Engineer+%26+Undergraduate+Researcher;Building+worlds+in+Unreal+Engine+5;AR+%2F+Computer+Vision+%40+ECL%2C+INU;Rhythm+game+enjoyer+%E2%99%AA" alt="Game Engineer & Undergraduate Researcher" />
+</picture>
+
+<br/>
+
+<kbd>&nbsp;UE5&nbsp;</kbd>&nbsp;<kbd>&nbsp;C++&nbsp;</kbd>&nbsp;<kbd>&nbsp;NPC AI&nbsp;</kbd>&nbsp;<kbd>&nbsp;AR / CV&nbsp;</kbd>&nbsp;<kbd>&nbsp;Incheon, KR&nbsp;</kbd>
+
+<br/><br/>
+
+<a href="https://x.com/ssa1mon_"><img src="https://img.shields.io/badge/@ssa1mon__-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+&nbsp;
+<a href="https://www.instagram.com/ssa1mon"><img src="https://img.shields.io/badge/@ssa1mon-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+&nbsp;
+<a href="mailto:ssa1mon@inu.ac.kr"><img src="https://img.shields.io/badge/ssa1mon@inu.ac.kr-2b3137?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" /></a>
+
 </div>
 
 <br/>
 
-<img src="./assets/section-about.svg" width="100%" alt="About" />
+## 🎮 About
 
-I build games and the systems behind them. Currently an undergraduate researcher at the **Entertainment Computing Lab (ECL)**, Incheon National University, working on how large groups of NPCs can cooperate intelligently in real time — and, ultimately, on making games that genuinely move people.
+<table>
+<tr>
+<td width="58%" valign="top">
+
+I build games and the systems behind them.
+
+Currently an undergraduate researcher at the **Entertainment Computing Lab (ECL)**, Incheon National University — working on how large groups of NPCs can cooperate intelligently in real time, and ultimately on **making games that genuinely move people**.
+
+</td>
+<td valign="top">
+
+🎓 &nbsp;**B.S. Computer Engineering** — INU, 3rd year<br/><br/>
+🔬 &nbsp;**ECL** — game engineering · AR · CV<br/><br/>
+🏆 &nbsp;**KGS Excellent Paper Award ×2**<br/><br/>
+🧑‍🏫 &nbsp;**TA** — Entertainment Software
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>&nbsp;<b>More about me</b> — off duty ⚡</summary>
+<br/>
+
+- 🎨 &nbsp;Digital illustration — character art & DJMAX fan art
+- 🎵 &nbsp;Rhythm games, DJMAX above all
+- 🏎️ &nbsp;F1 & motorsport data — telemetry visualization is the dream side quest
+- 🖥️ &nbsp;PC building & workspace customization
+
+</details>
 
 <br/>
 
-&nbsp;&nbsp;🎓 &nbsp;**Incheon National University** — B.S. in Computer Engineering, 3rd year
-
-&nbsp;&nbsp;🔬 &nbsp;**Entertainment Computing Lab** — game engineering · AR · computer vision
-
-&nbsp;&nbsp;🏆 &nbsp;**Korea Game Society** — Excellent Paper Award, two consecutive conferences
-
-&nbsp;&nbsp;🧑‍🏫 &nbsp;**Teaching Assistant** — Entertainment Software
-
-&nbsp;&nbsp;🎨 &nbsp;**Off duty** — digital illustration, rhythm games, F1 telemetry
-
-<br/>
-
-<img src="./assets/section-research.svg" width="100%" alt="Research" />
+## 🔬 Research
 
 ### Scale-Adaptive NPC Cooperative Behavior Framework
 
-`Unreal Engine 5` `C++` `Game AI`
+<kbd>&nbsp;Unreal Engine 5&nbsp;</kbd>&nbsp;<kbd>&nbsp;C++&nbsp;</kbd>&nbsp;<kbd>&nbsp;Game AI&nbsp;</kbd>
 
-A hierarchical decision framework that lets NPC groups cooperate at scale 
+A hierarchical decision framework for large-scale NPC cooperation — an OODA-based pipeline connecting **role assignment → Hungarian algorithm → EQS decisions → tier-based execution relay**.
 
-🏆 **Excellent Paper Award** — Korea Game Society, 2026 Spring Conference
+<img src="https://img.shields.io/badge/🏆_Excellent_Paper_Award-KGS_·_2026_Spring-FFC86B?style=flat-square&labelColor=3a2e00" alt="Excellent Paper Award 2026 Spring" />
+<img src="https://img.shields.io/badge/🏆_Excellent_Paper_Award-KGS_·_2025_Fall-FFC86B?style=flat-square&labelColor=3a2e00" alt="Excellent Paper Award 2025 Fall" />
+
 <br/>
-🏆 **Excellent Paper Award** — Korea Game Society, 2025 Fall Conference
 
-<br/>
-
-<img src="./assets/section-stack.svg" width="100%" alt="Tech Stack" />
+## 🛠️ Tech Stack
 
 <div align="center">
-  <br/>
-  <sub><b>L A N G U A G E S</b></sub>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,java&theme=dark" alt="C, C++, Python, MATLAB, Java" />
-  <br/><br/>
-  <sub><b>E N G I N E S</b></sub>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=unreal,unity&theme=dark" alt="Unreal Engine 5, Unity" />
-  <br/><br/>
-  <sub><b>E N V I R O N M E N T</b></sub>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=rider,clion,visualstudio,docker,git&theme=dark" alt="Rider, CLion, Visual Studio, Docker, Git" />
-  <br/>
+<br/>
+
+<kbd>&nbsp;Languages&nbsp;</kbd>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,java&theme=dark" alt="C · C++ · Python · MATLAB · Java" />
+
+<br/><br/>
+
+<kbd>&nbsp;Engines&nbsp;</kbd>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=unreal,unity&theme=dark" alt="Unreal Engine 5 · Unity" />
+
+<br/><br/>
+
+<kbd>&nbsp;Environment&nbsp;</kbd>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=rider,clion,visualstudio,docker,git&theme=dark" alt="Rider · CLion · Visual Studio · Docker · Git" />
+
+<br/>
 </div>
 
 <br/>
 
-<img src="./assets/section-github.svg" width="100%" alt="GitHub" />
+## 📈 GitHub
 
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=ssa1monn&theme=tokyonight&hide_border=true&background=00000000&ring=7C9BFF&fire=C79BFF&currStreakLabel=7C9BFF&sideLabels=7C9BFF&dates=8A93A6" alt="GitHub streak" />
-  <br/>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ssa1monn&hide_border=true&background=00000000&ring=56C8FF&fire=FF5CA8&currStreakNum=EDF1FA&currStreakLabel=56C8FF&sideNums=EDF1FA&sideLabels=8B94AC&dates=8B94AC" />
+  <img src="https://streak-stats.demolab.com?user=ssa1monn&hide_border=true&background=00000000&ring=0969DA&fire=CF222E&currStreakNum=1F2328&currStreakLabel=0969DA&sideNums=1F2328&sideLabels=656D76&dates=656D76" alt="GitHub streak" />
+</picture>
+
+<br/>
 </div>
 
 <br/>
 
-<img src="./assets/section-contact.svg" width="100%" alt="Contact" />
+---
 
 <div align="center">
-  <br/>
-  <a href="https://x.com/ssa1mon_">
-    <img src="https://img.shields.io/badge/X-@ssa1mon__-0B0D14?style=flat-square&logo=x&logoColor=white&labelColor=0B0D14" height="28" alt="X" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/ssa1mon">
-    <img src="https://img.shields.io/badge/Instagram-@ssa1mon-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0B0D14" height="28" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:ssa1mon@inu.ac.kr">
-    <img src="https://img.shields.io/badge/Mail-ssa1mon@inu.ac.kr-7C9BFF?style=flat-square&logo=gmail&logoColor=white&labelColor=0B0D14" height="28" alt="Email" />
-  </a>
-  <br/><br/>
-</div>
 
-<div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Making games that feel alive" />
+*Making games that feel alive* ✦
+
+<img src="https://komarev.com/ghpvc/?username=ssa1monn&style=flat-square&color=56C8FF&label=visitors" alt="visitors" />
+
 </div>
