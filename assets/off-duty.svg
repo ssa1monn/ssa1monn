@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
+  <title id="title">Off Duty</title>
+  <desc id="desc">Digital illustration, rhythm games, F1 telemetry, and PC building interests.</desc>
+  <rect width="900" height="250" rx="24" fill="#f6f8fa"/>
+  <text x="28" y="38" fill="#57606a" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="700" letter-spacing="2">OFF DUTY / OUTSIDE THE LAB</text>
+  <text x="28" y="73" fill="#172229" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="800">연구실 밖에서도, 계속 만들고 관찰합니다.</text>
+
+  <rect x="28" y="100" width="198" height="104" rx="18" fill="#ffd8eb"/>
+  <circle cx="54" cy="128" r="9" fill="#bf3989"/>
+  <text x="74" y="133" fill="#4d1830" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800">Digital Illustration</text>
+  <text x="50" y="166" fill="#7d3357" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">Character art</text>
+  <text x="50" y="184" fill="#7d3357" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">DJMAX fan art</text>
+
+  <rect x="240" y="100" width="198" height="104" rx="18" fill="#e9ddff"/>
+  <circle cx="266" cy="128" r="9" fill="#8250df"/>
+  <text x="286" y="133" fill="#30204f" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800">Rhythm Games</text>
+  <text x="262" y="166" fill="#5d477d" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">DJMAX above all</text>
+  <text x="262" y="184" fill="#5d477d" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">music × interaction</text>
+
+  <rect x="452" y="100" width="198" height="104" rx="18" fill="#fff8c5"/>
+  <circle cx="478" cy="128" r="9" fill="#bf8700"/>
+  <text x="498" y="133" fill="#3d2d00" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800">F1 Telemetry</text>
+  <text x="474" y="166" fill="#7b620e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">Motorsport data</text>
+  <text x="474" y="184" fill="#7b620e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">dream side quest</text>
+
+  <rect x="664" y="100" width="208" height="104" rx="18" fill="#ddf4ff"/>
+  <circle cx="690" cy="128" r="9" fill="#0969da"/>
+  <text x="710" y="133" fill="#033d8b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800">PC &amp; Workspace</text>
+  <text x="686" y="166" fill="#0969da" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">PC building</text>
+  <text x="686" y="184" fill="#0969da" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">setup customization</text>
+
+  <text x="450" y="232" text-anchor="middle" fill="#57606a" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="9" font-weight="700" letter-spacing="1.8">BUILD · RESEARCH · DOCUMENT · REPEAT / MAKING GAMES THAT FEEL ALIVE</text>
+</svg>
+
