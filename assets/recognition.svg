@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" role="img" aria-labelledby="title desc">
+  <title id="title">Recognition and Publication</title>
+  <desc id="desc">Three individual records: Korean Game Society 2025 Fall Excellent Paper Award, 2026 Spring Excellent Paper Award, and scheduled October 2026 KCI journal publication.</desc>
+  <rect width="900" height="420" rx="24" fill="#f6f8fa"/>
+  <text x="28" y="38" fill="#8250df" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="2">02 / RECOGNITION &amp; PUBLICATION</text>
+  <text x="28" y="75" fill="#172229" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="800">개별 기록으로 남긴 연구 성과</text>
+
+  <rect x="28" y="104" width="844" height="88" rx="18" fill="#fff8c5" stroke="#eac54f"/>
+  <rect x="46" y="121" width="82" height="54" rx="14" fill="#ffffff" stroke="#eac54f"/>
+  <text x="87" y="145" text-anchor="middle" fill="#6b4f00" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="800">2025</text>
+  <text x="87" y="163" text-anchor="middle" fill="#8a6800" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="8" font-weight="700">FALL</text>
+  <text x="152" y="142" fill="#3d2d00" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800">한국게임학회 2025 추계 학술발표대회</text>
+  <text x="152" y="166" fill="#7b620e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Korean Game Society Fall Conference</text>
+  <rect x="686" y="127" width="160" height="40" rx="20" fill="#3d2d00"/>
+  <text x="766" y="152" text-anchor="middle" fill="#fff8c5" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="800">EXCELLENT PAPER</text>
+
+  <rect x="28" y="208" width="844" height="88" rx="18" fill="#ddf4ff" stroke="#54aeff"/>
+  <rect x="46" y="225" width="82" height="54" rx="14" fill="#ffffff" stroke="#54aeff"/>
+  <text x="87" y="249" text-anchor="middle" fill="#0550ae" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="800">2026</text>
+  <text x="87" y="267" text-anchor="middle" fill="#0969da" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="8" font-weight="700">SPRING</text>
+  <text x="152" y="246" fill="#033d8b" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800">한국게임학회 2026 춘계 학술발표대회</text>
+  <text x="152" y="270" fill="#0969da" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Korean Game Society Spring Conference</text>
+  <rect x="686" y="231" width="160" height="40" rx="20" fill="#033d8b"/>
+  <text x="766" y="256" text-anchor="middle" fill="#ddf4ff" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="800">EXCELLENT PAPER</text>
+
+  <rect x="28" y="312" width="844" height="80" rx="18" fill="#ffd8eb" stroke="#ff80c8"/>
+  <rect x="46" y="325" width="82" height="54" rx="14" fill="#ffffff" stroke="#ff80c8"/>
+  <text x="87" y="349" text-anchor="middle" fill="#9e2f6e" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="800">2026</text>
+  <text x="87" y="367" text-anchor="middle" fill="#bf3989" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="8" font-weight="700">OCTOBER</text>
+  <text x="152" y="346" fill="#6d214f" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800">한국게임학회 논문지 2026년 10월호</text>
+  <text x="152" y="370" fill="#a63c77" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">KCI-listed Journal · scheduled publication</text>
+  <rect x="686" y="332" width="160" height="40" rx="20" fill="#6d214f"/>
+  <text x="766" y="357" text-anchor="middle" fill="#ffd8eb" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="800">KCI PUBLICATION</text>
+</svg>
+
