@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Technical Inventory</title>
+  <desc id="desc">Primary technologies grouped into systems and gameplay, research and analysis, application development, and workflow.</desc>
+  <rect width="900" height="520" rx="24" fill="#f6f8fa"/>
+  <text x="28" y="38" fill="#1a7f37" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="2">03 / TECHNICAL INVENTORY</text>
+  <text x="28" y="75" fill="#172229" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="800">도구의 이름보다, 어디에 사용하는지를 함께</text>
+
+  <rect x="28" y="104" width="414" height="188" rx="20" fill="#10151c"/>
+  <text x="52" y="137" fill="#63c7ff" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="700" letter-spacing="1.5">SYSTEMS &amp; GAMEPLAY / MAIN LANE</text>
+  <g transform="translate(52 160)" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" font-weight="800">
+    <rect width="54" height="38" rx="10" fill="#ffffff"/><text x="27" y="24" text-anchor="middle" fill="#172229">C</text>
+    <rect x="64" width="70" height="38" rx="10" fill="#ffffff"/><text x="99" y="24" text-anchor="middle" fill="#172229">C++</text>
+    <rect x="144" width="136" height="38" rx="10" fill="#0969da"/><text x="212" y="24" text-anchor="middle" fill="#ffffff">UNREAL 5</text>
+  </g>
+  <text x="52" y="230" fill="#c2ccd6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">게임플레이 코드 · NPC 로직 · 엔진 기반</text>
+  <text x="52" y="254" fill="#c2ccd6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">실시간 시뮬레이션 시스템 구현</text>
+
+  <rect x="458" y="104" width="414" height="188" rx="20" fill="#d9f99d"/>
+  <text x="482" y="137" fill="#50652a" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="700" letter-spacing="1.5">RESEARCH &amp; ANALYSIS</text>
+  <g transform="translate(482 160)" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" font-weight="800">
+    <rect width="92" height="38" rx="10" fill="#ffffff"/><text x="46" y="24" text-anchor="middle" fill="#1f3512">PYTHON</text>
+    <rect x="102" width="92" height="38" rx="10" fill="#ffffff"/><text x="148" y="24" text-anchor="middle" fill="#1f3512">MATLAB</text>
+    <rect x="204" width="92" height="38" rx="10" fill="#ffffff"/><text x="250" y="24" text-anchor="middle" fill="#1f3512">OPENCV</text>
+  </g>
+  <text x="482" y="230" fill="#405322" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">연구 프로토타이핑 · 실험 자동화 · 수치 분석</text>
+  <text x="482" y="254" fill="#405322" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">AR · Computer Vision</text>
+
+  <rect x="28" y="308" width="304" height="184" rx="20" fill="#e9ddff"/>
+  <text x="52" y="341" fill="#6543a5" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="700" letter-spacing="1.5">APPLICATION</text>
+  <g transform="translate(52 364)" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" font-weight="800">
+    <rect width="82" height="38" rx="10" fill="#ffffff"/><text x="41" y="24" text-anchor="middle" fill="#30204f">JAVA</text>
+    <rect x="92" width="126" height="38" rx="10" fill="#ffffff"/><text x="155" y="24" text-anchor="middle" fill="#30204f">JAVASCRIPT</text>
+  </g>
+  <text x="52" y="434" fill="#5d477d" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">애플리케이션 · 개인 웹사이트</text>
+  <text x="52" y="457" fill="#5d477d" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">인터랙티브 도구 제작</text>
+
+  <rect x="348" y="308" width="524" height="184" rx="20" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="372" y="341" fill="#57606a" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="700" letter-spacing="1.5">WORKFLOW &amp; SUPPORTING TOOLS</text>
+  <g transform="translate(372 364)" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="800">
+    <rect width="58" height="38" rx="10" fill="#f6f8fa" stroke="#d0d7de"/><text x="29" y="24" text-anchor="middle" fill="#172229">GIT</text>
+    <rect x="68" width="82" height="38" rx="10" fill="#ddf4ff"/><text x="109" y="24" text-anchor="middle" fill="#0969da">DOCKER</text>
+    <rect x="160" width="72" height="38" rx="10" fill="#10151c"/><text x="196" y="24" text-anchor="middle" fill="#ffffff">RIDER</text>
+    <rect x="242" width="58" height="38" rx="10" fill="#e9ddff"/><text x="271" y="24" text-anchor="middle" fill="#6543a5">VS</text>
+    <rect x="310" width="74" height="38" rx="10" fill="#f6f8fa" stroke="#d0d7de"/><text x="347" y="24" text-anchor="middle" fill="#172229">UNITY</text>
+  </g>
+  <text x="372" y="434" fill="#57606a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">버전 관리 · 재현 가능한 개발 환경 · 엔진 및 IDE 기반 작업</text>
+</svg>
+
