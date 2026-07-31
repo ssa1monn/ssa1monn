@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430" role="img" aria-labelledby="title desc">
+  <title id="title">Current Coordinates and Online Basecamp</title>
+  <desc id="desc">Current engineering and research interests, future direction, and a link to ssa1mon's bowl.</desc>
+  <defs>
+    <linearGradient id="site" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#ddf4ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="430" rx="24" fill="#f6f8fa"/>
+  <text x="28" y="38" fill="#bf3989" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="2">04 / CURRENT COORDINATES</text>
+  <text x="28" y="75" fill="#172229" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="800">지금 만드는 것과, 앞으로 만들고 싶은 것</text>
+
+  <rect x="28" y="104" width="272" height="132" rx="20" fill="#10151c"/>
+  <text x="50" y="135" fill="#63c7ff" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="9" font-weight="700">NOW / ENGINEERING</text>
+  <text x="50" y="168" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800">Intelligent Play</text>
+  <text x="50" y="198" fill="#b7c2ce" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">자연스럽게 반응하고 협동하는</text>
+  <text x="50" y="218" fill="#b7c2ce" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">실시간 NPC 시스템</text>
+
+  <rect x="314" y="104" width="272" height="132" rx="20" fill="#d9f99d"/>
+  <text x="336" y="135" fill="#50652a" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="9" font-weight="700">NOW / RESEARCH</text>
+  <text x="336" y="168" fill="#172229" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800">Entertainment Computing</text>
+  <text x="336" y="198" fill="#405322" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Game AI를 중심으로 AR·CV까지</text>
+  <text x="336" y="218" fill="#405322" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">연구의 접점을 탐구</text>
+
+  <rect x="600" y="104" width="272" height="132" rx="20" fill="#ffd8eb"/>
+  <text x="622" y="135" fill="#9e2f6e" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="9" font-weight="700">NEXT / DIRECTION</text>
+  <text x="622" y="168" fill="#4d1830" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800">Games That Stay</text>
+  <text x="622" y="198" fill="#7d3357" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">기술적으로 탄탄하면서 플레이어에게</text>
+  <text x="622" y="218" fill="#7d3357" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">실제 감정을 남기는 게임</text>
+
+  <rect x="28" y="254" width="844" height="148" rx="20" fill="url(#site)" stroke="#54aeff"/>
+  <text x="52" y="286" fill="#0969da" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="9" font-weight="700" letter-spacing="1.5">ONLINE BASECAMP / PERSONAL KNOWLEDGE BASE</text>
+  <text x="52" y="329" fill="#172229" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="800">ssa1mon's bowl</text>
+  <text x="52" y="358" fill="#57606a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Programming · Data · Research Notes</text>
+  <text x="52" y="383" fill="#57606a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">완성된 결과뿐 아니라 개발과 학습의 과정을 축적하는 개인 지식 저장소</text>
+  <rect x="706" y="299" width="134" height="48" rx="24" fill="#0969da"/>
+  <text x="773" y="328" text-anchor="middle" fill="#ffffff" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="800">VISIT WEBSITE ↗</text>
+</svg>
+
