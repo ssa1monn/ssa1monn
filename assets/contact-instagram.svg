@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="72" viewBox="0 0 280 72" role="img" aria-labelledby="title desc">
+  <title id="title">Instagram @ssa1mon</title>
+  <desc id="desc">Open Go Woo Suk's Instagram profile.</desc>
+  <defs>
+    <linearGradient id="ig" x1="0" y1="1" x2="1" y2="0">
+      <stop stop-color="#ffdc80"/>
+      <stop offset=".35" stop-color="#fcaf45"/>
+      <stop offset=".7" stop-color="#e1306c"/>
+      <stop offset="1" stop-color="#833ab4"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="278" height="70" rx="18" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+  <rect x="14" y="14" width="44" height="44" rx="13" fill="url(#ig)"/>
+  <rect x="24" y="24" width="24" height="24" rx="7" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <circle cx="36" cy="36" r="5" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <circle cx="45" cy="27" r="2" fill="#ffffff"/>
+  <text x="76" y="29" fill="#8c3d67" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="9" font-weight="700" letter-spacing="1.5">INSTAGRAM</text>
+  <text x="76" y="50" fill="#172229" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800">@ssa1mon</text>
+  <text x="252" y="43" text-anchor="middle" fill="#bf3989" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800">↗</text>
+</svg>
+
