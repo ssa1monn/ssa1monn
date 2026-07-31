@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="480" viewBox="0 0 900 480" role="img" aria-labelledby="title desc">
+  <title id="title">Player Profile</title>
+  <desc id="desc">About Go Woo Suk, an Incheon National University computer engineering student and Entertainment Computing Lab undergraduate researcher.</desc>
+  <rect width="900" height="480" rx="24" fill="#f6f8fa"/>
+  <text x="28" y="38" fill="#0969da" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="2">01 / PLAYER PROFILE</text>
+  <text x="28" y="75" fill="#172229" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="800">게임을 만들고, 게임 속 지능을 연구합니다.</text>
+
+  <rect x="28" y="102" width="460" height="186" rx="20" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="52" y="133" fill="#57606a" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="700" letter-spacing="1.5">ABOUT / GO WOO SUK</text>
+  <text x="52" y="172" fill="#172229" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="800">Game Engineer × Undergraduate Researcher</text>
+  <text x="52" y="207" fill="#57606a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">게임플레이 구현과 연구 프로토타이핑을 오가며</text>
+  <text x="52" y="232" fill="#57606a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">아이디어를 실제로 동작하는 시스템으로 바꿉니다.</text>
+  <g transform="translate(52 252)" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="9" font-weight="700">
+    <rect width="106" height="22" rx="11" fill="#ddf4ff"/><text x="53" y="15" text-anchor="middle" fill="#0969da">GAME ENGINEERING</text>
+    <rect x="114" width="70" height="22" rx="11" fill="#dafbe1"/><text x="149" y="15" text-anchor="middle" fill="#1a7f37">GAME AI</text>
+    <rect x="192" width="62" height="22" rx="11" fill="#fff1e5"/><text x="223" y="15" text-anchor="middle" fill="#bc4c00">AR / CV</text>
+  </g>
+
+  <rect x="506" y="102" width="168" height="186" rx="20" fill="#0969da"/>
+  <text x="528" y="133" fill="#cde7ff" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="700" letter-spacing="1.4">EDUCATION</text>
+  <text x="528" y="178" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="800">3rd</text>
+  <text x="528" y="202" fill="#cde7ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">year undergraduate</text>
+  <text x="528" y="240" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">Incheon National</text>
+  <text x="528" y="260" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">University</text>
+
+  <rect x="692" y="102" width="180" height="186" rx="20" fill="#d9f99d"/>
+  <text x="714" y="133" fill="#50652a" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="700" letter-spacing="1.4">LAB &amp; ROLE</text>
+  <text x="714" y="178" fill="#172229" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="800">ECL</text>
+  <text x="714" y="205" fill="#314019" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">Entertainment</text>
+  <text x="714" y="223" fill="#314019" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">Computing Lab</text>
+  <text x="714" y="256" fill="#50652a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">Researcher · TA</text>
+
+  <rect x="28" y="306" width="272" height="146" rx="20" fill="#10151c"/>
+  <circle cx="55" cy="337" r="9" fill="#54aeff"/>
+  <text x="76" y="342" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800">BUILD</text>
+  <text x="52" y="380" fill="#b7c2ce" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">UE5와 C++를 중심으로 게임플레이,</text>
+  <text x="52" y="403" fill="#b7c2ce" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">NPC AI, 실시간 시스템을 구현합니다.</text>
+
+  <rect x="314" y="306" width="272" height="146" rx="20" fill="#e9ddff"/>
+  <circle cx="341" cy="337" r="9" fill="#8250df"/>
+  <text x="362" y="342" fill="#30204f" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800">RESEARCH</text>
+  <text x="338" y="380" fill="#5d477d" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Game AI와 AR/CV 아이디어를</text>
+  <text x="338" y="403" fill="#5d477d" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">실험 가능한 프로토타입으로 검증합니다.</text>
+
+  <rect x="600" y="306" width="272" height="146" rx="20" fill="#ffd8eb"/>
+  <circle cx="627" cy="337" r="9" fill="#bf3989"/>
+  <text x="648" y="342" fill="#4d1830" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800">DOCUMENT</text>
+  <text x="624" y="380" fill="#7d3357" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">개발과 연구의 과정을 다시 활용할 수</text>
+  <text x="624" y="403" fill="#7d3357" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">있는 지식과 기록으로 남깁니다.</text>
+</svg>
+
