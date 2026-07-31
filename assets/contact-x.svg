@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="72" viewBox="0 0 280 72" role="img" aria-labelledby="title desc">
+  <title id="title">X Twitter @ssa1mon_</title>
+  <desc id="desc">Open Go Woo Suk's X profile.</desc>
+  <rect x="1" y="1" width="278" height="70" rx="18" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+  <rect x="14" y="14" width="44" height="44" rx="13" fill="#10151c"/>
+  <path d="M25 24L45 48M45 24L27 48" fill="none" stroke="#ffffff" stroke-width="3.2" stroke-linecap="round"/>
+  <text x="76" y="29" fill="#57606a" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="9" font-weight="700" letter-spacing="1.5">X / TWITTER</text>
+  <text x="76" y="50" fill="#172229" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800">@ssa1mon_</text>
+  <text x="252" y="43" text-anchor="middle" fill="#172229" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800">↗</text>
+</svg>
+
