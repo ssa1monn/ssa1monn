@@ -1,82 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
-  <title id="title">SSA1MONN — Game Engineer and Undergraduate Researcher</title>
-  <desc id="desc">A dark modular dashboard with game engine, research, and technology indicators.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" role="img" aria-labelledby="title desc">
+  <title id="title">SSA1MONN — Go Woo Suk, Game Engineer and Researcher</title>
+  <desc id="desc">A bright modular Bento profile header with education, lab, recognition, and location cards.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#08111d"/>
-      <stop offset=".55" stop-color="#0d1725"/>
-      <stop offset="1" stop-color="#111827"/>
+    <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#fbfcfd"/>
+      <stop offset="1" stop-color="#edf1f5"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#53d3ff"/>
-      <stop offset=".55" stop-color="#7c9cff"/>
-      <stop offset="1" stop-color="#c4f16b"/>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0969da"/>
+      <stop offset="1" stop-color="#54aeff"/>
     </linearGradient>
-    <radialGradient id="glow" cx=".5" cy=".5" r=".5">
-      <stop offset="0" stop-color="#53d3ff" stop-opacity=".22"/>
-      <stop offset="1" stop-color="#53d3ff" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M30 0H0V30" fill="none" stroke="#8da2be" stroke-opacity=".07"/>
-    </pattern>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#02060c" flood-opacity=".5"/>
-    </filter>
   </defs>
+  <rect width="900" height="280" rx="22" fill="url(#canvas)"/>
+  <rect x="24" y="24" width="510" height="232" rx="20" fill="#10151c"/>
+  <rect x="552" y="24" width="146" height="108" rx="20" fill="url(#blue)"/>
+  <rect x="716" y="24" width="160" height="108" rx="20" fill="#d9f99d"/>
+  <rect x="552" y="150" width="204" height="106" rx="20" fill="#ffffff" stroke="#d0d7de"/>
+  <rect x="774" y="150" width="102" height="106" rx="20" fill="#ffd8eb"/>
 
-  <rect width="1200" height="400" rx="30" fill="url(#bg)"/>
-  <rect width="1200" height="400" rx="30" fill="url(#grid)"/>
-  <circle cx="980" cy="190" r="260" fill="url(#glow)"/>
-  <path d="M30 1H1170Q1199 1 1199 30V370Q1199 399 1170 399H30Q1 399 1 370V30Q1 1 30 1Z" fill="none" stroke="#26364a" stroke-width="2"/>
-
-  <g transform="translate(54 48)">
-    <rect width="74" height="24" rx="12" fill="#132235" stroke="#2a425c"/>
-    <circle cx="14" cy="12" r="4" fill="#c4f16b">
-      <animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/>
-    </circle>
-    <text x="26" y="16" fill="#a9bad0" font-family="Inter,Segoe UI,sans-serif" font-size="10" font-weight="700" letter-spacing="1.3">ONLINE</text>
-
-    <text x="0" y="82" fill="#f5f8fc" font-family="Inter,Segoe UI,sans-serif" font-size="68" font-weight="800" letter-spacing="-2">SSA1MONN</text>
-    <rect x="0" y="100" width="535" height="5" rx="2.5" fill="url(#accent)"/>
-    <text x="0" y="145" fill="#a9bad0" font-family="Inter,Segoe UI,sans-serif" font-size="17" font-weight="700" letter-spacing="3">GAME ENGINEER  /  UNDERGRADUATE RESEARCHER</text>
-    <text x="0" y="186" fill="#dce6f2" font-family="Inter,Segoe UI,sans-serif" font-size="22" font-weight="500">Building intelligent play, one system at a time.</text>
-
-    <g transform="translate(0 226)" font-family="Inter,Segoe UI,sans-serif" font-size="13" font-weight="700">
-      <g><rect width="88" height="36" rx="10" fill="#132235" stroke="#2a425c"/><text x="44" y="23" fill="#53d3ff" text-anchor="middle">UNREAL 5</text></g>
-      <g transform="translate(100)"><rect width="65" height="36" rx="10" fill="#132235" stroke="#2a425c"/><text x="32.5" y="23" fill="#f5f8fc" text-anchor="middle">C++</text></g>
-      <g transform="translate(177)"><rect width="88" height="36" rx="10" fill="#132235" stroke="#2a425c"/><text x="44" y="23" fill="#c4f16b" text-anchor="middle">GAME AI</text></g>
-      <g transform="translate(277)"><rect width="76" height="36" rx="10" fill="#132235" stroke="#2a425c"/><text x="38" y="23" fill="#b7a6ff" text-anchor="middle">AR / CV</text></g>
+  <g transform="translate(56 52)" font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" letter-spacing="2" fill="#7d8998">PROFILE / 2026</text>
+    <text y="63" font-size="55" font-weight="800" letter-spacing="-2" fill="#f7fbff">SSA1MONN</text>
+    <text y="99" font-size="17" font-weight="700" fill="#aab5c1">GAME ENGINEER × RESEARCHER</text>
+    <text y="131" font-size="13" font-weight="700" fill="#ffffff">GO WOO SUK</text>
+    <text y="158" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" fill="#63c7ff">C++ · UE5 · GAME AI · AR/CV</text>
+    <g transform="translate(0 185)">
+      <circle cx="5" cy="5" r="5" fill="#61e294">
+        <animate attributeName="opacity" values="1;.35;1" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="18" y="9" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" fill="#9ca9b7">BUILD · RESEARCH · DOCUMENT</text>
     </g>
   </g>
 
-  <g transform="translate(770 46)" filter="url(#shadow)">
-    <rect width="376" height="308" rx="24" fill="#0b1522" stroke="#2a3a4f"/>
-    <text x="28" y="40" fill="#7f93aa" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" font-weight="700" letter-spacing="1.8">PLAYER PROFILE</text>
-    <text x="28" y="77" fill="#f4f7fb" font-family="Inter,Segoe UI,sans-serif" font-size="22" font-weight="700">GO WOO SUK</text>
-    <text x="28" y="100" fill="#8fa4ba" font-family="Inter,Segoe UI,sans-serif" font-size="13">Incheon National University</text>
-    <line x1="28" y1="122" x2="348" y2="122" stroke="#23354a"/>
-
-    <g transform="translate(28 132)" font-family="Inter,Segoe UI,sans-serif">
-      <circle cx="62" cy="62" r="54" fill="none" stroke="#1d3044" stroke-width="7"/>
-      <circle cx="62" cy="62" r="54" fill="none" stroke="#53d3ff" stroke-width="7" stroke-linecap="round" stroke-dasharray="245 340" transform="rotate(-90 62 62)">
-        <animateTransform attributeName="transform" type="rotate" from="-90 62 62" to="270 62 62" dur="14s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="62" cy="62" r="34" fill="#101f30" stroke="#2b4965"/>
-      <path d="M62 41L78 72H46Z" fill="#c4f16b"/>
-      <circle cx="62" cy="62" r="4" fill="#08111d"/>
-
-      <g transform="translate(150 0)">
-        <text y="13" fill="#70869d" font-size="11" font-weight="700" letter-spacing="1">CLASS</text>
-        <text y="37" fill="#eaf1f8" font-size="15" font-weight="700">GAME SYSTEMS</text>
-        <text y="76" fill="#70869d" font-size="11" font-weight="700" letter-spacing="1">LAB</text>
-        <text y="100" fill="#eaf1f8" font-size="15" font-weight="700">ECL · INU</text>
-        <text y="113" fill="#70869d" font-size="11" font-weight="700" letter-spacing="1">MODE</text>
-        <text y="137" fill="#c4f16b" font-size="15" font-weight="700">BUILD · TEST · LEARN</text>
-      </g>
-    </g>
-    <rect x="28" y="281" width="320" height="1" fill="#23354a"/>
-    <circle cx="32" cy="295" r="3" fill="#53d3ff"/>
-    <text x="44" y="299" fill="#70869d" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10">SEOUL UTC+09 · SYSTEMS NOMINAL</text>
+  <g transform="translate(573 47)" font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="9" fill="#d9ecff">EDUCATION</text>
+    <text y="36" font-size="31" font-weight="800" fill="#fff">INU</text>
+    <text y="57" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="9" fill="#d9ecff">COMPUTER ENG.</text>
+  </g>
+  <g transform="translate(737 47)" font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="9" fill="#50652a">LAB</text>
+    <text y="36" font-size="31" font-weight="800" fill="#172229">ECL</text>
+    <text y="57" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="9" fill="#50652a">UNDERGRAD R&amp;D</text>
+  </g>
+  <g transform="translate(573 174)" font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="9" fill="#57606a">RECOGNITION</text>
+    <text y="35" font-size="23" font-weight="800" fill="#172229">KGS AWARDS</text>
+    <text y="58" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" fill="#0969da">2025 FALL · 2026 SPRING</text>
+  </g>
+  <g transform="translate(795 174)" font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="9" fill="#8d385e">UTC</text>
+    <text y="36" font-size="27" font-weight="800" fill="#4d1830">+09</text>
+    <text y="58" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="8" fill="#8d385e">INCHEON</text>
   </g>
 </svg>
 
