@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="250" viewBox="0 0 560 250" role="img" aria-labelledby="title desc">
+  <title id="title">ssa1mon's bowl</title>
+  <desc id="desc">A preview card for the personal programming, data, and research notes website.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0c1724"/>
+      <stop offset="1" stop-color="#111f2d"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#53d3ff"/>
+      <stop offset="1" stop-color="#c4f16b"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#8ba1b8" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="558" height="248" rx="20" fill="url(#bg)" stroke="#2b3d52" stroke-width="2"/>
+  <rect x="1" y="1" width="558" height="248" rx="20" fill="url(#grid)"/>
+  <circle cx="28" cy="26" r="4" fill="#53d3ff"/>
+  <circle cx="43" cy="26" r="4" fill="#33475d"/>
+  <circle cx="58" cy="26" r="4" fill="#33475d"/>
+  <text x="28" y="83" fill="#7890a7" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="1.6">PERSONAL KNOWLEDGE BASE</text>
+  <text x="28" y="130" fill="#f0f5fa" font-family="Inter,Segoe UI,sans-serif" font-size="33" font-weight="800">ssa1mon's bowl</text>
+  <text x="28" y="162" fill="#a9b9c9" font-family="Inter,Segoe UI,sans-serif" font-size="15">Programming · Data · Research Notes</text>
+  <rect x="28" y="188" width="504" height="3" rx="1.5" fill="url(#line)"/>
+  <text x="28" y="220" fill="#7890a7" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10">NOTES THAT COMPOUND OVER TIME.</text>
+  <g transform="translate(467 207)">
+    <rect width="65" height="25" rx="12.5" fill="#132537" stroke="#2d5069"/>
+    <text x="32.5" y="16.5" text-anchor="middle" fill="#53d3ff" font-family="Inter,Segoe UI,sans-serif" font-size="9" font-weight="800">VISIT ↗</text>
+  </g>
+</svg>
+
