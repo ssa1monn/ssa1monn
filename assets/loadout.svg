@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="158" viewBox="0 0 900 158" role="img" aria-labelledby="title desc">
+  <title id="title">Active Loadout</title>
+  <desc id="desc">Primary tools: C, C++, Python, Java, JavaScript, MATLAB, and Unreal Engine 5.</desc>
+  <rect width="900" height="158" fill="#070a0f"/>
+  <g stroke="#303946" fill="none"><rect x="1" y="1" width="898" height="156"/><path d="M128 1V157M256 1V157M384 1V157M512 1V157M640 1V157M768 1V157"/></g>
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace">
+    <g transform="translate(0)"><text x="18" y="27" fill="#66717f" font-size="9">SLOT 01</text><text x="64" y="88" text-anchor="middle" fill="#f0f6fc" font-size="29" font-weight="800">C</text><text x="64" y="127" text-anchor="middle" fill="#c8f135" font-size="9">SYSTEMS</text></g>
+    <g transform="translate(128)"><text x="18" y="27" fill="#66717f" font-size="9">SLOT 02</text><text x="64" y="88" text-anchor="middle" fill="#f0f6fc" font-size="29" font-weight="800">C++</text><text x="64" y="127" text-anchor="middle" fill="#c8f135" font-size="9">GAMEPLAY</text></g>
+    <g transform="translate(256)"><text x="18" y="27" fill="#66717f" font-size="9">SLOT 03</text><text x="64" y="88" text-anchor="middle" fill="#f0f6fc" font-size="23" font-weight="800">PYTHON</text><text x="64" y="127" text-anchor="middle" fill="#79c0ff" font-size="9">PROTOTYPE</text></g>
+    <g transform="translate(384)"><text x="18" y="27" fill="#66717f" font-size="9">SLOT 04</text><text x="64" y="88" text-anchor="middle" fill="#f0f6fc" font-size="25" font-weight="800">JAVA</text><text x="64" y="127" text-anchor="middle" fill="#79c0ff" font-size="9">SOFTWARE</text></g>
+    <g transform="translate(512)"><text x="18" y="27" fill="#66717f" font-size="9">SLOT 05</text><text x="64" y="88" text-anchor="middle" fill="#f0f6fc" font-size="25" font-weight="800">JS</text><text x="64" y="127" text-anchor="middle" fill="#ff7ab2" font-size="9">WEB</text></g>
+    <g transform="translate(640)"><text x="18" y="27" fill="#66717f" font-size="9">SLOT 06</text><text x="64" y="88" text-anchor="middle" fill="#f0f6fc" font-size="19" font-weight="800">MATLAB</text><text x="64" y="127" text-anchor="middle" fill="#ff7ab2" font-size="9">ANALYSIS</text></g>
+    <g transform="translate(768)"><text x="18" y="27" fill="#66717f" font-size="9">CORE</text><text x="64" y="79" text-anchor="middle" fill="#f0f6fc" font-size="18" font-weight="800">UNREAL</text><text x="64" y="100" text-anchor="middle" fill="#f0f6fc" font-size="18" font-weight="800">ENGINE 5</text><text x="64" y="127" text-anchor="middle" fill="#c8f135" font-size="9">PRIMARY</text></g>
+  </g>
+</svg>
+
+
