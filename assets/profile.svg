@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="480" viewBox="0 0 900 480" role="img" aria-labelledby="title desc">
   <title id="title">Player Profile</title>
   <desc id="desc">About Go Woo Suk, an Incheon National University computer engineering student and Entertainment Computing Lab undergraduate researcher.</desc>
-  <rect width="900" height="480" rx="24" fill="#f6f8fa"/>
+  <rect width="900" height="480" fill="#ffffff"/>
   <text x="28" y="38" fill="#0969da" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="2">01 / PLAYER PROFILE</text>
   <text x="28" y="75" fill="#172229" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="800">게임을 만들고, 게임 속 지능을 연구합니다.</text>
 
