@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-labelledby="title desc">
+  <title id="title">Go Woo Suk — Game Engineer and Undergraduate Researcher</title>
+  <desc id="desc">Editorial profile masthead for Go Woo Suk of Incheon National University and Entertainment Computing Lab.</desc>
+  <rect width="900" height="210" fill="#ffffff"/>
+  <path d="M0 1H900M0 209H900" stroke="#d0d7de"/>
+  <path d="M590 0V210" stroke="#d0d7de"/>
+  <path d="M615 0V210M640 0V210M665 0V210M690 0V210M715 0V210M740 0V210M765 0V210M790 0V210M815 0V210M840 0V210M865 0V210" stroke="#eef1f4"/>
+  <path d="M590 35H900M590 70H900M590 105H900M590 140H900M590 175H900" stroke="#eef1f4"/>
+  <rect x="0" y="0" width="9" height="210" fill="#0969da"/>
+  <circle cx="642" cy="67" r="34" fill="none" stroke="#0969da" stroke-width="2"/>
+  <circle cx="642" cy="67" r="8" fill="#0969da"/>
+  <path d="M642 20V114M595 67H689" stroke="#0969da" stroke-width="1" opacity=".55"/>
+  <path d="M713 117c29-48 78-46 111-11 21 23 36 18 76-10" fill="none" stroke="#bf3989" stroke-width="3"/>
+  <circle cx="713" cy="117" r="4" fill="#bf3989"/><circle cx="824" cy="106" r="4" fill="#bf3989"/>
+  <text x="38" y="42" fill="#0969da" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="2.2">PROFILE / SSA1MONN</text>
+  <text x="36" y="101" fill="#172229" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="50" font-weight="800" letter-spacing="-1.2">GO WOO SUK</text>
+  <text x="39" y="136" fill="#57606a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="600">Game Engineer · Undergraduate Researcher</text>
+  <text x="39" y="174" fill="#8c959f" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="700" letter-spacing="1.2">INCHEON NATIONAL UNIVERSITY  /  ENTERTAINMENT COMPUTING LAB</text>
+  <text x="617" y="174" fill="#57606a" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="700">GAME AI · REAL-TIME · AR/CV</text>
+</svg>
+
+
