@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
   <title id="title">Off Duty</title>
   <desc id="desc">Digital illustration, rhythm games, F1 telemetry, and PC building interests.</desc>
-  <rect width="900" height="250" rx="24" fill="#f6f8fa"/>
+  <rect width="900" height="250" fill="#ffffff"/>
   <text x="28" y="38" fill="#57606a" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="700" letter-spacing="2">OFF DUTY / OUTSIDE THE LAB</text>
   <text x="28" y="73" fill="#172229" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="800">연구실 밖에서도, 계속 만들고 관찰합니다.</text>
 
