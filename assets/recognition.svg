@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430" role="img" aria-labelledby="title desc">
   <title id="title">Recognition and Publication</title>
   <desc id="desc">Three individual records: Korean Game Society 2025 Fall Excellent Paper Award, 2026 Spring Excellent Paper Award, and scheduled October 2026 KCI journal publication.</desc>
-  <rect width="900" height="420" rx="24" fill="#f6f8fa"/>
+  <rect width="900" height="430" fill="#ffffff"/>
   <text x="28" y="38" fill="#8250df" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="2">02 / RECOGNITION &amp; PUBLICATION</text>
   <text x="28" y="75" fill="#172229" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="800">개별 기록으로 남긴 연구 성과</text>
 
@@ -31,5 +31,6 @@
   <text x="152" y="370" fill="#a63c77" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">KCI-listed Journal · scheduled publication</text>
   <rect x="686" y="332" width="160" height="40" rx="20" fill="#6d214f"/>
   <text x="766" y="357" text-anchor="middle" fill="#ffd8eb" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="800">KCI PUBLICATION</text>
+  <text x="450" y="416" text-anchor="middle" fill="#8c959f" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9">공개 가능한 학회·수상·게재 정보만 표시하며, 논문 제목과 연구 세부 내용은 제외합니다.</text>
 </svg>
 
