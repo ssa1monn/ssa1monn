@@ -1,0 +1,25 @@
+[
+  {
+    "type": "normal",
+    "fileName": "field-day.svg",
+    "backgroundColor": "#f6f7f2",
+    "foregroundColor": "#16181d",
+    "strongColor": "#2f5bff",
+    "weakColor": "#68707c",
+    "radarColor": "#2f5bff",
+    "growingAnimation": true,
+    "contribColors": ["#e9ecf1", "#dfe6ff", "#98aaff", "#5c79ff", "#2f5bff"]
+  },
+  {
+    "type": "normal",
+    "fileName": "field-night.svg",
+    "backgroundColor": "#11141a",
+    "foregroundColor": "#f0f3f6",
+    "strongColor": "#dfff4f",
+    "weakColor": "#8c96a5",
+    "radarColor": "#7893ff",
+    "growingAnimation": true,
+    "contribColors": ["#222832", "#28345a", "#405bb5", "#7893ff", "#dfff4f"]
+  }
+]
+
