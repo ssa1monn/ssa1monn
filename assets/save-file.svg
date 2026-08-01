@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+  <title id="title">Save File Player 01 — Go Woo Suk</title>
+  <desc id="desc">Game-style profile boot screen for Go Woo Suk, game engineer and undergraduate researcher.</desc>
+  <style>
+    @keyframes blink{0%,45%{opacity:1}50%,95%{opacity:.15}100%{opacity:1}}
+    @keyframes scan{0%{transform:translateX(-210px)}100%{transform:translateX(900px)}}
+    @keyframes pulse{0%,100%{r:4;opacity:1}50%{r:8;opacity:.35}}
+    .cursor{animation:blink 1.15s steps(1,end) infinite}.scanner{animation:scan 7s linear infinite}.pulse{animation:pulse 2s ease-in-out infinite}
+  </style>
+  <defs>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#18202b" stroke-width="1"/></pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#c8f135" stop-opacity="0"/><stop offset=".5" stop-color="#c8f135" stop-opacity=".18"/><stop offset="1" stop-color="#c8f135" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="900" height="300" fill="#070a0f"/>
+  <rect width="900" height="300" fill="url(#grid)" opacity=".55"/>
+  <rect x="18" y="18" width="864" height="264" fill="none" stroke="#303946"/>
+  <path d="M18 58H882M610 58V282" stroke="#303946"/>
+  <path d="M18 58H204" stroke="#c8f135" stroke-width="2"/>
+  <g class="scanner"><rect x="-210" y="18" width="210" height="264" fill="url(#fade)"/></g>
+  <text x="38" y="44" fill="#c8f135" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="2.4">SAVE FILE // PLAYER 01</text>
+  <text x="862" y="44" text-anchor="end" fill="#66717f" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10">SLOT 01 · ONLINE</text>
+  <text x="42" y="112" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" letter-spacing="1.8">IDENTITY CONFIRMED</text>
+  <text x="38" y="178" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="55" font-weight="800" letter-spacing="-1.8">GO WOO SUK</text>
+  <rect x="40" y="198" width="10" height="19" fill="#c8f135" class="cursor"/>
+  <text x="62" y="213" fill="#c8f135" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" font-weight="700">GAME ENGINEER</text>
+  <text x="207" y="213" fill="#66717f" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14">×</text>
+  <text x="232" y="213" fill="#79c0ff" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" font-weight="700">UNDERGRADUATE RESEARCHER</text>
+  <text x="40" y="253" fill="#66717f" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" letter-spacing="1.1">INCHEON NATIONAL UNIVERSITY / ENTERTAINMENT COMPUTING LAB / UTC+09</text>
+  <circle cx="746" cy="163" r="76" fill="none" stroke="#303946"/><circle cx="746" cy="163" r="50" fill="none" stroke="#303946"/><circle cx="746" cy="163" r="23" fill="none" stroke="#303946"/>
+  <path d="M650 163H842M746 67V259" stroke="#303946"/>
+  <path d="M746 163L792 119" stroke="#c8f135" stroke-width="2"/><circle cx="792" cy="119" r="4" fill="#c8f135" class="pulse"/>
+  <path d="M746 163L699 205" stroke="#79c0ff" stroke-width="2"/><circle cx="699" cy="205" r="4" fill="#79c0ff"/>
+  <path d="M746 163L813 191" stroke="#ff7ab2" stroke-width="2"/><circle cx="813" cy="191" r="4" fill="#ff7ab2"/>
+  <text x="799" y="111" fill="#c8f135" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="9">NPC AI</text>
+  <text x="652" y="220" fill="#79c0ff" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="9">AR / CV</text>
+  <text x="820" y="207" fill="#ff7ab2" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="9">REAL-TIME</text>
+</svg>
+
+
