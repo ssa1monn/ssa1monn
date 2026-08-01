@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="76" viewBox="0 0 900 76" role="img" aria-labelledby="title desc">
+  <title id="title">Contribution Landscape</title><desc id="desc">Repository-generated three-dimensional GitHub activity visualization.</desc>
+  <style>:root{--bg:#f6f7f2;--fg:#16181d;--muted:#68707c;--line:#d5d9e0;--blue:#2f5bff;--lime:#dfff4f}@media(prefers-color-scheme:dark){:root{--bg:#11141a;--fg:#f0f3f6;--muted:#8c96a5;--line:#303743;--blue:#7893ff;--lime:#dfff4f}}</style>
+  <rect width="900" height="76" fill="var(--bg)"/><rect x="0" y="0" width="8" height="76" fill="var(--blue)"/><path d="M28 58H872" stroke="var(--line)"/>
+  <text x="30" y="31" fill="var(--muted)" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="700" letter-spacing="2">LIVE WIDGET / REPOSITORY GENERATED</text>
+  <text x="30" y="56" fill="var(--fg)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800">Contribution landscape</text>
+  <circle cx="735" cy="39" r="5" fill="var(--lime)"/><text x="750" y="44" fill="var(--fg)" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="700">AUTO-UPDATED DAILY</text>
+</svg>
+
+
