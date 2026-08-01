@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/field-system-mobile.svg" />
-    <img src="./assets/field-system-desktop.svg" width="100%" alt="Go Woo Suk — Game Engineer and Undergraduate Researcher field system profile" />
+    <source media="(max-width: 600px)" srcset="./assets/field-system-mobile.svg?v=2" />
+    <img src="./assets/field-system-desktop.svg?v=2" width="100%" alt="Go Woo Suk — Game Engineer and Undergraduate Researcher field system profile" />
   </picture>
 </p>
 
