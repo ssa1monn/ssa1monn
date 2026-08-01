@@ -6,10 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://ssa1mon.vercel.app"><img src="https://img.shields.io/badge/WEBSITE-ssa1mon%27s_bowl-2F5BFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Website — ssa1mon's bowl" /></a>
-  <a href="https://www.instagram.com/ssa1mon_"><img src="https://img.shields.io/badge/INSTAGRAM-@ssa1mon__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @ssa1mon_" /></a>
-  <a href="https://x.com/ssa1mon_"><img src="https://img.shields.io/badge/X-@ssa1mon__-111111?style=for-the-badge&logo=x&logoColor=white" alt="X @ssa1mon_" /></a>
-  <a href="mailto:ssa1mon@inu.ac.kr"><img src="https://img.shields.io/badge/EMAIL-ssa1mon@inu.ac.kr-2D333B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email ssa1mon@inu.ac.kr" /></a>
+  <a href="https://www.instagram.com/ssa1mon_"><img src="./assets/contact-instagram.svg" width="220" alt="Instagram @ssa1mon_" /></a>
+  <a href="https://x.com/ssa1mon_"><img src="./assets/contact-x.svg" width="220" alt="X @ssa1mon_" /></a>
+  <a href="mailto:ssa1mon@inu.ac.kr"><img src="./assets/contact-email.svg" width="220" alt="Email ssa1mon@inu.ac.kr" /></a>
 </p>
 
 <p align="center">
