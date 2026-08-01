@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="116" viewBox="0 0 900 116" role="img" aria-labelledby="title desc">
+  <title id="title">ssa1mon's bowl</title>
+  <desc id="desc">Personal knowledge base for programming, data, and research notes.</desc>
+  <rect width="900" height="116" fill="#f6f8fa"/>
+  <rect width="8" height="116" fill="#0969da"/>
+  <path d="M32 86H868" stroke="#d0d7de"/>
+  <text x="32" y="31" fill="#0969da" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10" font-weight="700" letter-spacing="1.8">ONLINE BASECAMP</text>
+  <text x="32" y="69" fill="#172229" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="800">ssa1mon's bowl</text>
+  <text x="264" y="68" fill="#57606a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Programming · Data · Research Notes</text>
+  <text x="868" y="68" text-anchor="end" fill="#0969da" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" font-weight="800">VISIT WEBSITE ↗</text>
+  <circle cx="843" cy="31" r="3" fill="#1a7f37"/>
+  <text x="834" y="34" text-anchor="end" fill="#57606a" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="9">LIVE</text>
+</svg>
+
+
