@@ -1,8 +1,10 @@
 <p align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="./assets/field-system-mobile.svg" />
-    <img src="./assets/field-system-desktop.svg" width="100%" alt="Go Woo Suk — Game Engineer and Undergraduate Researcher field system profile" />
-  </picture>
+  <a href="https://ssa1mon.vercel.app" aria-label="Open ssa1mon's bowl portfolio website">
+    <picture>
+      <source media="(max-width: 600px)" srcset="./assets/field-system-mobile.svg" />
+      <img src="./assets/field-system-desktop.svg" width="100%" alt="Go Woo Suk — Game Engineer and Undergraduate Researcher field system profile" />
+    </picture>
+  </a>
 </p>
 
 <p align="center">
