@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="90" viewBox="0 0 900 90" role="img" aria-labelledby="title desc">
+  <title id="title">Online Basecamp — ssa1mon's bowl</title>
+  <desc id="desc">Open the personal knowledge base for programming, data, and research notes.</desc>
+  <rect width="900" height="90" fill="#070a0f"/>
+  <rect x="1" y="1" width="898" height="88" fill="none" stroke="#303946"/>
+  <rect width="7" height="90" fill="#c8f135"/>
+  <circle cx="35" cy="25" r="4" fill="#c8f135"/>
+  <text x="49" y="29" fill="#66717f" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="9" font-weight="700" letter-spacing="1.4">ONLINE BASECAMP / SIGNAL ACTIVE</text>
+  <text x="30" y="64" fill="#f0f6fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="800">ssa1mon's bowl</text>
+  <text x="239" y="63" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10">PROGRAMMING · DATA · RESEARCH NOTES</text>
+  <text x="870" y="56" text-anchor="end" fill="#c8f135" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="800">ENTER BASECAMP  →</text>
+</svg>
+
+
